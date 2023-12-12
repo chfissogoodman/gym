@@ -1,0 +1,3 @@
+D:/C++_Code/carbohydrate_cycle/cmake-build-debug/CMakeFiles/carbohydrate_cycle.dir
+D:/C++_Code/carbohydrate_cycle/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++_Code/carbohydrate_cycle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

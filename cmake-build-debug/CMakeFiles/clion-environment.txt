@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@D:\Mingw for easyx
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/软件/clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
